@@ -1,7 +1,7 @@
+add mod.ini
 add /main/raw/character/amy.pac
 add /main/raw/character/amy_orig.pac
 add /main/raw/character/knuckles.pac
 add /main/raw/character/knuckles_orig.pac
 add /main/raw/character/tails.pac
 add /main/raw/character/tails_orig.pac
-add mod.ini
