@@ -1,3 +1,9 @@
+delete /main/raw/character/amy.pac
+delete /main/raw/character/amy_orig.pac
+delete /main/raw/character/knuckles.pac
+delete /main/raw/character/knuckles_orig.pac
+delete /main/raw/character/tails.pac
+delete /main/raw/character/tails_orig.pac
 add /main/raw/character/amy.pac
 add /main/raw/character/amy_orig.pac
 add /main/raw/character/knuckles.pac
